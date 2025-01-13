@@ -1,0 +1,116 @@
+footer {
+  margin-bottom: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+footer h2 {
+  font-size: 30px;
+}
+
+footer .input_box {
+  display: flex;
+  margin-top: 20px;
+}
+
+footer .input_box input[type="email"] {
+  width: 300px;
+  height: 30px;
+  border: 2px solid #000;
+  border-radius: 0;
+  background-color: #fff;
+  margin-right: 10px;
+}
+
+footer .input_box input[type="submit"] {
+  width: 110px;
+  border: 2px solid #000;
+  border-radius: 0;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+.add_artist_box {
+  display: flex;
+  align-items: center;
+}
+
+.new_artist_btn {
+  border-radius: 6px;
+  background-color: #d0cfcf;
+  cursor: pointer;
+  margin-bottom: 6px;
+  font-size: 30px;
+  color: #000;
+  width: 42px;
+  text-align: center;
+}
+.new_artist_btn:hover {
+  text-decoration: auto;
+  background: #9b9b9b;
+}
+
+.add_header a {
+  color: #000;
+  font-size: 20px;
+}
+
+.add_header a:hover {
+  text-decoration: none;
+  color: #0076d1;
+}
+
+.form-row input {
+  width: -webkit-fill-available;
+  height: 25px;
+  border: 1px solid #d8d8d8;
+  background-color: #fff;
+  margin-bottom: 15px;
+}
+textarea {
+  width: -webkit-fill-available;
+  border: 1px solid #d8d8d8;
+  background-color: #fff;
+  margin-bottom: 20px;
+}
+
+#add_song {
+  font-size: 24px;
+  width: 40px;
+  padding: 6px;
+  background-color: #fff;
+  border: 1px solid #d8d8d8;
+  border-radius: 0;
+}
+#add_song:hover {
+  background-color: #000;
+  color: #fff;
+}
+.same-line {
+  display: flex;
+  align-items: center;
+}
+.same-line input {
+  width: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.form-buttons {
+  display: flex;
+  margin-top: 10px;
+}
+.form-buttons input {
+  width: 300px;
+  padding: 12px;
+  border: 1px solid #d8d8d8;
+  background-color: #000;
+  color: #fff;
+  margin-right: 20px;
+  cursor: pointer;
+  border-radius: 0;
+}
+.form-buttons .submit-btn:hover {
+  background-color: #0076d1;
+  color: #fff;
+}
