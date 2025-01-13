@@ -1,6 +1,6 @@
 # Assignment 5 and 6 Instructions
 
-NOTE: this assignments combines Assignment 5 and 6 into one, and is 2x the marks.
+NOTE: this assignments combines Assignment 5.1 and 6 into one, and is 2x the marks.
 
 ## Introduction
 
