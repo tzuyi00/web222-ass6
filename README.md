@@ -3,7 +3,7 @@
 This is a client-side web application that presents a music discovery experience. Users can explore artists and songs within a chosen genre, interact with dynamically generated content, and submit form-based interactions like newsletter signup and artist suggestions.
 
 🔗 **Live Demo:**  
-👉 [https://ass6-seven.vercel.app/index.html](https://ass6-seven.vercel.app/index.html)
+👉 [https://ass6-seven.vercel.app/](https://ass6-seven.vercel.app/)
 
 ---
 
