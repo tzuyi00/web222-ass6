@@ -1,4 +1,4 @@
-# Music Discovery Web App 🎵
+# Ethereal Echoes 🎵
 
 This is a client-side web application that presents a music discovery experience. Users can explore artists and songs within a chosen genre, interact with dynamically generated content, and submit form-based interactions like newsletter signup and artist suggestions.
 
